@@ -2,11 +2,12 @@
 ### Andy Kim - 8/13/20
 
 
-### Requisites
-Please take a look at the notebook at Gender_Classification_Challenge.ipynb for a step by step walkthrough of the classification code. Gender_Classification_Challenge.html is the HTML form of the notebook.
+### Requisite Packages
+Please take a look at the notebook at [Gender_Classification_Challenge.ipynb] for a step by step walkthrough of the classification code. [Gender_Classification_Challenge.html] is the HTML form of the notebook.
 
-Please ensure tensorflow, sklearn and scipy.io are all installed in the python environment.
-
+- tensorflow
+- sklearn
+- scipy.io
 
 
 
